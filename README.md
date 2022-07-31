@@ -18,6 +18,11 @@ More formally, our focus was on reducing/optimizing classification error rate fo
 ## Final Report
 @[finalreport.pdf](https://github.com/ridhitbhura/Graph-Based-Semi-Supervised-Research/blob/main/finalreport.pdf)
 
+## File Structure
+- <code>code</code> holds the entire data processing pipeline and graph construction scripts
+- <code>data</code> holds the the relevant datasets used to run the regressions 
+
+
 ## Authors
 - Ridhit Bhura (rb749)
 - Ishaan Chansarkar (ic254)
